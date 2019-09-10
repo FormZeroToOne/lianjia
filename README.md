@@ -6,7 +6,7 @@
 用到的技术:
 
 1.python+scrapy进行网站数据爬取<br>
-2.kafka+flume数据采集
-3.hdfs 数据存储
-4.sparkcore + spark sql  数据分析
-5.springboot + mybatis + mysql + angular.js+echarts 完成数据可视化
+2.kafka+flume数据采集<br>
+3.hdfs 数据存储<br>
+4.sparkcore + spark sql  数据分析<br>
+5.springboot + mybatis + mysql + angular.js+echarts 完成数据可视化<br>
