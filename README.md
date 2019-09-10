@@ -5,7 +5,7 @@
 直接写到mysql中，最后使用springboot+mybatis+angular.js+echarts进行数据可视化.
 用到的技术:
 
-1.python+scrapy进行网站数据爬取
+1.python+scrapy进行网站数据爬取<br>
 2.kafka+flume数据采集
 3.hdfs 数据存储
 4.sparkcore + spark sql  数据分析
